@@ -1,0 +1,2 @@
+git init = aciona o git
+ggit add .= adiciona a pasta
